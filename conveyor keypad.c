@@ -5,7 +5,7 @@
  * Created on June 2, 2025, 11:38 AM
  */
 /*
- * RA0=MONTOR ON & OFF
+ * RA0=MOTOR ON & OFF
  * RA1=SET_CM 
  * RA2=MOTOR
  * PORTB=KEYPAD
